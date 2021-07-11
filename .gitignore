@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Topics/The Math library/Fourth root/out/
+/Topics/The Math library/Fourth root/out/production/classes/
+/Topics/The Math library/Fractional part/out/
+/Topics/The Math library/Fractional part/out/production/classes/
+/Topics/The Math library/Heron's formula/out/
+/Topics/The Math library/Heron's formula/out/production/classes/
+/Topics/The Math library/Max of four numbers/out/
+/Topics/The Math library/Max of four numbers/out/production/classes/
